@@ -26,5 +26,5 @@ return "You are a teenager";
 }
 
 function switchAge(age) {
-
+switch(age){
 }
